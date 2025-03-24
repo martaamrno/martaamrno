@@ -1,16 +1,13 @@
-## Hi there 👋
+## ¡Hola! 
 
-<!--
-**martaamrno/martaamrno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy **Marta**, estudiante de **Desarrollo de Aplicaciones Web** y apasionada por la tecnología y la programación. 
+Me encanta convertir ideas en código y las nuevas tecnologías.
 
-Here are some ideas to get you started:
+Acualmente estoy aprendiendo y mejorando mis habilidades en desarrollo web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tecnologías y herramientas que manejo:
+- **Lenguajes:** Java, Python, JavaScript  
+- **Desarrollo web:** HTML, CSS, Django, Bootstrap, jQuery  
+- **Otras habilidades:** Git, GitHub  
+
+**Contáctame:**  (morenodominguezmarta25@gmail.com)
