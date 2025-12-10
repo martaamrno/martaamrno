@@ -1,85 +1,103 @@
-<h1 align="center">👋 ¡Hola! Soy [Tu Nombre]</h1>
+<h1 align="center">👋 ¡Hola! Soy Marta</h1>
 <p align="center">
-  Desarrolladora Full Stack • En formación en IA, Big Data & Cloud ☁️📊🤖
+  Desarrolladora Full Stack • En formación en IA, Big Data & Cloud  
 </p>
 
 ---
 
-## 👩‍💻 Sobre mí
-- 💻 Desarrolladora **Full Stack** con experiencia en frontend y backend.  
-- 🤖 Actualmente ampliando mi perfil hacia **Inteligencia Artificial**, **Big Data** y **Cloud**.  
-- 🎯 Objetivo: combinar desarrollo, datos y automatización para crear soluciones end-to-end inteligentes.  
+## 🧩 Sobre mí
+- 💻 Desarrolladora **Full Stack**  
+- 🤖 Estudiando **IA, Big Data y Cloud**  
+- 🎯 Objetivo: crear soluciones inteligentes.
+
+---
+
+## 🎓 Certificaciones
+
+![DP-900](https://img.shields.io/badge/Microsoft%20Azure%20Data%20Fundamentals-DP--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ---
 
 ## 🛠️ Tecnologías y Aptitudes
 
-### **🔹 Cloud – Fundamentos**
-- Creación y configuración de entornos cloud  
-- Conceptos esenciales de infraestructura y despliegue  
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
-### **🔹 Programación para Datos e IA**
-- **Python**  
-- **SQL**  
-- **Scala**  
+<!-- --------- COLUMNA 1 --------- -->
+<div style="flex: 1; min-width: 250px;">
 
-### **🔹 Contenerización y Orquestación**
-- Docker  
-- Kubernetes (conceptos)  
-
-### **🔹 Sistemas de Bases de Datos**
-- **SQL** relacionales  
-- **NoSQL**  
-- Bases de datos **vectoriales**  
-
-### **🔹 Big Data con PySpark**
-- PySpark  
-- Hadoop: MapReduce  
-- Spark: transformaciones, acciones, optimización  
-
-### **🔹 Ingeniería y Pipelines de Datos**
-- Ingesta **ETL / ELT**  
-- Procesamiento y transformación  
-- Limpieza de datos (**Data Cleansing**)  
-- Orquestación y monitoreo de pipelines  
-- Principios de **Gobernanza de Datos**  
-
-### **🔹 Visualización y BI**
-- **Power BI**  
-- Creación de dashboards y explotación de datos  
-- Conceptos clave de análisis visual  
+### ☁️ Cloud
+![Cloud](https://img.shields.io/badge/Cloud_Fundamentals-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Infra](https://img.shields.io/badge/Creación_de_Entornos-0A66C2?style=for-the-badge)
 
 ---
 
-## ⭐ Proyectos Destacados
-*(Añade tus proyectos aquí. Si quieres, puedo ayudarte a redactar cada uno con estilo profesional.)*
+### 🧠 Programación para Datos e IA
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 
-| Proyecto | Descripción | Tecnologías |
-|---------|-------------|-------------|
-| 🔗 Proyecto 1 | ... | Python, SQL |
-| 🔗 Proyecto 2 | ... | React, Node.js |
-| 🔗 Proyecto 3 | ... | Power BI, ETL |
+</div>
+
+<!-- --------- COLUMNA 2 --------- -->
+<div style="flex: 1; min-width: 250px;">
+
+### 📦 Contenerización y Orquestación
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ---
 
-## 📊 Stats de GitHub
+### 🗄️ Bases de Datos
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-FF6F00?style=for-the-badge&logo=apachecassandra&logoColor=white)
+![Vector](https://img.shields.io/badge/Vector_DB-009688?style=for-the-badge)
 
-<div align="center">
+</div>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
-![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical)
+<!-- --------- COLUMNA 3 --------- -->
+<div style="flex: 1; min-width: 250px;">
+
+### ⚡ Big Data
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-FFC107?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![MapReduce](https://img.shields.io/badge/MapReduce-009688?style=for-the-badge)
+![Spark](https://img.shields.io/badge/Spark-FF5722?style=for-the-badge&logo=apachespark&logoColor=white)
+
+---
+
+### 🔄 Ingeniería de Datos
+![ETL](https://img.shields.io/badge/ETL/ELT-6A1B9A?style=for-the-badge)
+![Cleansing](https://img.shields.io/badge/Data_Cleansing-4CAF50?style=for-the-badge)
+![Pipelines](https://img.shields.io/badge/Orquestación-0288D1?style=for-the-badge)
+![Governance](https://img.shields.io/badge/Gobernanza-455A64?style=for-the-badge)
+
+### 📊 Visualización & BI
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+</div>
 
 </div>
 
 ---
 
-## 📫 Contáctame
+## ⭐ Proyectos Destacados
+*(Añade tus repos luego)*
 
+| Proyecto | Descripción | Tech |
+|---------|-------------|------|
+| 🔗 Proyecto 1 | ... | Python, SQL |
+| 🔗 Proyecto 2 | ... | React, Node |
+| 🔗 Proyecto 3 | ... | Power BI, ETL |
+
+---
+
+## 📫 Contacto
 <p align="left">
-<a href="https://www.linkedin.com/in/TU-PERFIL"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="mailto:TU_EMAIL"><img src="https://img.shields.io/badge/Email-%23D44638?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/TU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:TU-EMAIL"><img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
 
-⭐ *Gracias por visitar mi perfil. Me encanta aprender, construir y compartir tecnología.*  
+<p align="center">✨ Gracias por visitar mi perfil ✨</p>
+
