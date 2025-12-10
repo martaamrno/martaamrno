@@ -80,17 +80,6 @@
 
 ---
 
-## ⭐ Proyectos Destacados
-*(Añade tus repos luego)*
-
-| Proyecto | Descripción | Tech |
-|---------|-------------|------|
-| 🔗 Proyecto 1 | ... | Python, SQL |
-| 🔗 Proyecto 2 | ... | React, Node |
-| 🔗 Proyecto 3 | ... | Power BI, ETL |
-
----
-
 ## 📫 Contacto
 <p align="left">
 <a href="https://www.linkedin.com/in/TU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
